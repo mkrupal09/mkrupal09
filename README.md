@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![](https://komarev.com/ghpvc/?username=mkrupal09&style=flat-square)
+<br/>
 https://www.krupal.dev
